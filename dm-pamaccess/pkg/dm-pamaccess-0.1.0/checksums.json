@@ -1,0 +1,10 @@
+{
+  "README.md": "ce1cf5a13ab9a7717ab5e6aa7ebd2fce",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/init.pp": "7b5bc43ae7080afd907720ebd6c7cc14",
+  "metadata.json": "32f3ee116af973027e3a1095ace0fdd3",
+  "spec/classes/init_spec.rb": "eb41214336dff4cb6fb0ee9159973ee6",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "templates/access.conf.erb": "5daaf10eb5324cadd1b9a7e784935e7f",
+  "tests/init.pp": "80aa4c8e812f074b2c628991d3f9a97e"
+}
